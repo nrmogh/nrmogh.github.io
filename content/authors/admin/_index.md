@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,7 +27,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Network Science Institute 
+  - name: Network Science Institute \n Northeastern University
     url: https://www.networkscienceinstitute.org/
 
 # Social network links
