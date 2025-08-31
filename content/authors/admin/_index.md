@@ -2,12 +2,19 @@
 # Display name
 title: Nima Moghaddas
 
+# Name pronunciation (optional)
+name_pronunciation: ''
+
 # Full name (for SEO)
 first_name: Nima
 last_name: Moghaddas
 
 # Pronouns (optional)
 pronouns: he/him
+
+# Status emoji
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
