@@ -2,19 +2,12 @@
 # Display name
 title: Nima Moghaddas
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nima
+last_name: Moghaddas
 
 # Pronouns (optional)
-pronouns: she/her
-
-# Status emoji
-status:
-  icon: ☕️
+pronouns: he/him
 
 # Is this the primary user of the site?
 superuser: true
