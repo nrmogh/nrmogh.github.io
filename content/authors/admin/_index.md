@@ -27,7 +27,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Network Science Institute | Northeastern University
+  - name: Network Science Institute 
     url: https://www.networkscienceinstitute.org/
 
 # Social network links
