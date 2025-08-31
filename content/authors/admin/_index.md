@@ -52,9 +52,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Epidemiology
+  - Public Health
+  - Social Determinants of Health
+  - Pandemic Preparedness
 
 education:
   - area: PhD Artificial Intelligence
